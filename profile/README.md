@@ -2,19 +2,29 @@
 
 # eChess
 
-eChess is a [chess engine](https://github.com/PCE-Engine/PCE-js) and a [place to play](http://playechess.com). We are creating a StockFish API, and a web implementation for a website to play tournaments, against your friends or Stockfish and Teach or discuss in classrooms.
+eChess is a [chess engine](https://github.com/playeChess/PCE) and a [place to play](http://playechess.com).
+
+We are creating [our own database system](https://github.com/playeChess/ECDB), a [StockFish API](https://github.com/playeChess/stockfishAPI), and a web implementation for a [website](https://github.com/playeChess/website) to play tournaments against your friends or Stockfish.
+
+You can even teach or discuss in classrooms.
 
 <br clear="left"/>
 
 ## To-do list
 
-- [ ] 🖥 Website
 - [ ] ♟ Engine
+- [ ] 🖥 Website
 - [ ] 🐟 API
-- [ ] 📘 Database
+- [x] 📘 Database
 
 ## Creators
 
-Founder: [SinisterIcy](https://github.com/SinisterIcy) (Working on chess engine and Database infrastructure)
+### Founder : [@SinisterIcy](https://github.com/SinisterIcy)
+> Chess Engine
+>
+> Database Infrastructure and API
 
-Co-founder: [Jasiukiewicz Tymon](https://github.com/jasiukiewicztymon) (Working on website and Stockfish API)
+### Co-Founder : [@Jasiukiewicz Tymon](https://github.com/jasiukiewicztymon)
+> Website
+>
+> Stockfish API
